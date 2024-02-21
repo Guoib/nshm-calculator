@@ -2,7 +2,7 @@ import { Attributes } from "../types";
 
 const DEFAULT_ROLE_ATTR: Attributes = {
   skillMultiplier: 1,
-  coefficient1: 1,
+  coefficient1: 0,
   coefficient2: 1,
   attack: 5500,
   airShield: 800,
